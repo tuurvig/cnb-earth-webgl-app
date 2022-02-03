@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1" >
+        <meta Content-Type="text/html" X-Content-Type-Options=nosniff http-equiv="Content-Type">
+        <title lang="cs">Interaktivní zeměkoule ČNB</title>
+        <link rel="stylesheet" href="style.css" />
+        <script data-main="app/main" src="app/lib/require/require.js"></script>
+    </head>
+    <body>
+        <div id="load-screen">
+            <h1>Loading...</h1>
+        </div>
+        <div id="UI-container">
+            <div id="UI" class="noselect">
+                <div id="circle-overlay"></div>
+                <div id="map-overlay" class="hidden">
+                    <div id="earth-render-container">
+                        <canvas id="earth-renderer">
+                            Your browser does not support HTML5
+                        </canvas>
+                        <canvas id="text-renderer"></canvas>
+                    </div>
+                    <div id="map-overlay-title">
+                        <h1 class="shortcut"></h1>
+                        <h2 class="name"></h2>
+                    </div>
+                    <div id="map-overlay-buttons">
+                        <button type="button" class="names-active" id="show-names"></button>
+                        <button type="button" id="map-menu">MENU</button>
+                        <button type="button" id="map-detail"></button>
+                    </div>
+                    <div id="group-detail-container" class="detailHidden">
+                        <div id="group-detail-window">
+                            <div id="group-detail">
+                                <div id="group-detail-trivia-container">
+                                    <div>
+                                        <span class="group-detail-label" id="name-label">Název organizace:</span>
+                                        <strong class="group-detail-item-value" id="name-value"></strong><br>
+                                        <span class="group-detail-item-detail" id="name-detail"></span>
+                                    </div>
+                                    <div>
+                                        <span class="group-detail-label" id="members-label">Počet členů:</span>
+                                        <strong class="group-detail-item-value" id="members-value"></strong><br>
+                                        <span class="group-detail-item-detail" id="members-detail"></span>
+                                    </div>
+                                    <div>
+                                        <span class="group-detail-label" id="year-label">Rok založení:</span>
+                                        <strong class="group-detail-item-value" id="year-value"></strong><br>
+                                        <span class="group-detail-item-detail" id="year-detail"></span>
+                                    </div>
+                                    <div>
+                                        <span class="group-detail-label" id="residence-label">Sídlo:</span>
+                                        <strong class="group-detail-item-value" id="residence-value"></strong><br>
+                                        <span class="group-detail-item-detail" id="residence-detail"></span>
+                                    </div>
+                                    <div>
+                                        <span class="group-detail-label" id="authority-label">Centrální orgán:</span>
+                                        <strong class="group-detail-item-value" id="authority-value"></strong><br>
+                                        <span class="group-detail-item-detail" id="authority-detail"></span>
+                                    </div>
+                                </div>
+                                <div id="group-detail-description"></div>
+                            </div>
+                            <div id="detail-close-container">
+                                <button type="button" id="detail-close"></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="group-menu" class="">
+                    <div id="group-menu-container">
+                        <h2 id="menu-label">Vyberte si instituci z nabídky:</h2>
+                        <div id="group-items-container">
+                        </div>
+                    </div>
+                    <div id="group-menu-buttons">
+                        <button id="menu-map" type="button"></button>
+                        <button id="lang-cz" type="button">CZ</button>
+                        <button id="lang-en" type="button">EN</button>
+                    </div>
+                    <span class="clear"></span>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
