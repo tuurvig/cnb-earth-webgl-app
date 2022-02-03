@@ -1,0 +1,59 @@
+{
+    "shortcut": "FSB RCGE",
+    "lang":{
+        "cz":{
+            "name": "FSB Regional Consultative Group for Europe",
+            "residence": "Basilej",
+            "residenceDetail": "sekretariát",
+            "authorityName": "",
+            "authorityNameDetail": "Spolupředsedové volení z řad členských zemí FSB a nečlenských zemí FSB",
+            "numberOfMembers": "24",
+            "numberOfMembersDetail": "62 zástupců institucí z 24 zemí",
+            "year": "2011",
+            "description": [
+                "V rámci FSB existuje celkem 6 regionálních skupin pro jednotlivé regiony – Amerika, Asie, Společenství nezávislých států, Evropa, Blízký Východ a severní Afrika, Sub-saharská Afrika. Nejpočetnější RCG je RCG pro Evropu s 24 členy.",
+                "Česká národní banka je zastoupena v RCG pro Evropu od počátku jejího fungování v roce 2011. V letech 2017 – 2019 této skupině viceguvernér ČNB spolupředsedal, společně se svým italským kolegou."
+            ]
+        },
+        "en":{
+            "name": "FSB Regional Consultative Group for Europe",
+            "residence": "Basil",
+            "residenceDetail": "secretariat",
+            "authorityName": "",
+            "authorityNameDetail": "TBS",
+            "numberOfMembers": "24",
+            "numberOfMembersDetail": "TBS",
+            "year": "2011",
+            "description": [
+                "TBS"
+            ]
+        }
+    },
+    "rotation":[82, 48],
+    "members": [
+        "AUS",
+        "BEL",
+        "CZE",
+        "DNK",
+        "FIN",
+        "FRA",
+        "DEU",
+        "GRC",
+        "HUN",
+        "ISL",
+        "IRL",
+        "ISR",
+        "ITA",
+        "LUX",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "ESP",
+        "SWE",
+        "CHE",
+        "UKR",
+        "GBR"
+    ]
+}

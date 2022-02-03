@@ -1,0 +1,76 @@
+{
+    "shortcut": "IADB",
+    "lang":{
+        "cz":{
+            "name": "Inter-americká rozvojová banka",
+            "residence": "Washington, D. C. (USA)",
+            "authorityName": "Rada guvernérů",
+            "numberOfMembers": "48",
+            "year": "1959",
+            "description": [
+                "Inter-americká rozvojová banka je největším zdrojem rozvojového financování v Latinské Americe a Karibiku. Od roku 1959 zde podporuje hospodářský a sociální rozvoj a regionální integraci prostřednictvím půjček vládám a vládním agenturám, vč. státních korporací, s primárním cílem snižování chudoby a podpory udržitelného a trvalého růstu. Banka vznikla na základě iniciativy brazilského prezidenta s českými kořeny Juscelina Kubitsheka. Aktuálně se zaměřuje na tři hlavní problémy: sociální vyloučení a nerovnost, nízkou produktivitu a inovace a nedostatečnou ekonomickou integraci"
+            ]
+        },
+        "en":{
+            "name": "Inter-American Development Bank",
+            "residence": "Washington, D. C. (USA)",
+            "authorityName": "TBS",
+            "numberOfMembers": "48",
+            "year": "1959",
+            "description": [
+                "TBS"
+            ]
+        }
+    },
+    "rotation": [165, 30],
+    "members": [
+        "ARG", 
+        "BHS", 
+        "BRB", 
+        "BLZ", 
+        "BOL", 
+        "BRA", 
+        "CHL", 
+        "COL", 
+        "CRI", 
+        "DOM", 
+        "ECU", 
+        "SLV", 
+        "GTM", 
+        "GUY", 
+        "HTI", 
+        "HND", 
+        "JAM", 
+        "MEX", 
+        "NIC", 
+        "PAN", 
+        "PRY", 
+        "PER", 
+        "SUR", 
+        "TTO", 
+        "URY", 
+        "VEN", 
+        "AUT", 
+        "BEL", 
+        "CAN", 
+        "CHN", 
+        "HRV", 
+        "DNK", 
+        "FIN", 
+        "FRA", 
+        "DEU", 
+        "ISR", 
+        "ITA", 
+        "JPN", 
+        "KOR", 
+        "NLD", 
+        "NOR", 
+        "PRT", 
+        "SVN", 
+        "ESP", 
+        "SWE", 
+        "CHE", 
+        "GBR", 
+        "USA"
+    ]
+}

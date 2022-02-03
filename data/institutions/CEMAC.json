@@ -1,0 +1,46 @@
+{
+    "shortcut": "CEMAC",
+    "lang":{
+        "cz":{
+            "name": "Hospodářské a měnové společenství střední Afriky",
+            "residence": "Yaoundé (Kamerun)",
+            "authorityName": "BEAC",
+            "authorityNameDetail": "Banque des Etats de l’Afrique Centrale",
+            "numberOfMembers": "6",
+            "year": "1972",
+            "yearDetail": "založení BEAC",
+            "description": [
+                "Středoafrická měnová unie (L’Union Monétaire de l'Afrique Centrale, UMAC) vznikla v r. 1972.  Založením Hospodařského a měnového společenství střední Afriky (CEMAC) v r. 1994 byla původní měnová unie rozšířena na unii hospodářskou s cílem posílit hospodářskou spolupráci a konvergenci, harmonizovat legislativu a regulaci a zajistit pohyb zboží a osob mezi svými členy.",
+                "Členové CEMAC spolu s členy Západoafrické hospodářské a měnové unie (UEMOA) a Francií tvoří tzv. zónu CFA franku. Každá z těchto dvou unií disponuje vlastní samostatnou měnou (středoafrický CFA frank, resp. západoafrický CFA frank), avšak obě měny jsou od r. 1999 navázány na euro (dříve, od r. 1945 na francouzský frank), a to při kurzu EUR1 = CFAF656. Navázání CFA franku na euro je podloženo smlouvou o měnové spolupráci s Francií, která garantuje neomezenou směnitelnost CFA franku."
+            ]
+        },
+        "en":{
+            "name": "Central African Economic and Monetary Community",
+            "residence": "Yaoundé (Cameroon)",
+            "authorityName": "BEAC",
+            "authorityNameDetail": "Banque des Etats de l’Afrique Centrale",
+            "numberOfMembers": "6",
+            "year": "1972",
+            "yearDetail": "founding of BEAC",
+            "description": [
+                "TBS"
+            ]
+        },
+        "fr":{
+            "name": "Communauté Economique et Monétaire de l’Afrique Centrale"
+        }
+    },
+    "rotation":[72, 10],
+    "members": [
+        "TCD",
+        "GAB",
+        "CMR",
+        "COG",
+        "GNQ",
+        "CAF"
+    ]
+}
+
+
+
+

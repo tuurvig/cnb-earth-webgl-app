@@ -1,0 +1,35 @@
+{
+    "shortcut": "Zkratka organizace",
+    "lang":{
+        "cz":{
+            "name": "Jméno organizace",
+            "residence": "Sídlo organizace",
+            "residenceDetail": "doplňující informace k sídlu",
+            "authorityName": "Název centrálního orgánu",
+            "authorityNameDetail" : "doplňující info k centrálníu orgánu",
+            "numberOfMembers": "počet členů",
+            "numberOfMembersDetail": "doplňují informace o počtu členů",
+            "year": "rok vzniku",
+            "yearDetail": "doplňující informace k roku vzniku",
+            "description": [
+                ["paragraf1", "paragraf2"]
+            ]
+        },
+        "en":{
+            "name": "Anglická verze",
+            "residence": "",
+            "residenceDetail": "",
+            "authorityName": "",
+            "authorityNameDetail": "",
+            "numberOfMembers": "",
+            "numberOfMembersDetail": "",
+            "year": "2",
+            "yearDetail" : "",
+            "description": [
+                ["paragraph1", "paragraph2"]
+            ]
+        }
+    },
+    "rotation": [80, 52],
+    "members": ["AUT", "BEL", "BGR", "HRV", "CYP", "CZE", "DNK"]
+}

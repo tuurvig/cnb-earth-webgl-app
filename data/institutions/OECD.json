@@ -1,0 +1,68 @@
+{
+    "shortcut": "OECD",
+    "lang":{
+        "cz":{
+            "name": "Organizace pro ekonomickou spolupráci a rozvoj",
+            "residence": "Paříž (Francie)",
+            "authorityName": "Rada OECD",
+            "authorityNameDetail": "složená z velvyslanců",
+            "numberOfMembers": "38",
+            "year": "1961",
+            "description": [
+                "TBS"
+            ]
+        },
+        "en":{
+            "name": "Organization for Economic Co-Operation and Development",
+            "residence": "Paris (France)",
+            "authorityName": "OECD Board",
+            "authorityNameDetail": "composed of ambassadors",
+            "numberOfMembers": "38",
+            "year": "1961",
+            "description": [
+                "TBS"
+            ]
+        }
+    },
+    "rotation": [120, 50],
+    "members": [
+        "BEL", 
+        "DNK", 
+        "FRA", 
+        "IRL", 
+        "ISL", 
+        "ITA", 
+        "CAN", 
+        "LUX", 
+        "NLD", 
+        "NOR", 
+        "PRT", 
+        "AUT", 
+        "GRC", 
+        "ESP", 
+        "USA", 
+        "GBR", 
+        "DEU", 
+        "SWE", 
+        "CHE", 
+        "TUR", 
+        "JPN", 
+        "FIN", 
+        "AUS", 
+        "NZL", 
+        "MEX", 
+        "CZE", 
+        "HUN", 
+        "POL", 
+        "KOR", 
+        "SVK", 
+        "CHL", 
+        "EST", 
+        "ISR", 
+        "SVN", 
+        "LVA", 
+        "LTU", 
+        "COL", 
+        "CRI"
+    ]
+}

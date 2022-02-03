@@ -1,0 +1,71 @@
+{
+    "shortcut": "BCG",
+    "lang":{
+        "cz":{
+            "name": "Basilejská konzultační skupina",
+            "residence": "Basilej, při BIS",
+            "authorityName": "",
+            "authorityNameDetail": "2 spolupředsedové, sekretariát poskytuje BIS, podřízené těleso BCBS",
+            "numberOfMembers": "",
+            "numberOfMembersDetail": "42 zástupců institucí z 28 zemí a 13 zástupců mezinárodních institucí/těles",
+            "year": "1974",
+            "description": [
+                "Basilejská konzultační skupina (Basel Consultative Group, BCG) je jednou ze skupin působících v rámci BCBS, na jejíž práci se podílí taktéž ČNB. BCG je fórem, kterým BCBS zapojuje do své práce též další jurisdikce, nečleny BCBS. Cílem je informovat zástupce těchto zemí v brzké fázi příprav o nových iniciativách či chystaných krocích BCBS a získat k nim zpětnou vazbu."
+            ]
+        },
+        "en":{
+            "name": "Basel Consultative Group",
+            "residence": "TBS",
+            "authorityName": "TBS",
+            "authorityNameDetail": "2 spolupředsedové, sekretariát poskytuje BIS, podřízené těleso BCBS",
+            "numberOfMembers": "TBS",
+            "numberOfMembersDetail": "42 zástupců institucí z 28 zemí a 13 zástupců mezinárodních institucí/těles",
+            "year": "1974",
+            "description": [
+                "TBS"
+            ]
+        }
+    },
+    "rotation":[82, 48],
+    "members": [
+        "ARG",
+        "ARM",
+        "AUT",
+        "AZE",
+        "CAN",
+        "CHL",
+        "CHN",
+        "COL",
+        "HRV",
+        "CZE",
+        "DNK",
+        "FRA",
+        "GEO",
+        "DEU",
+        "GHA",
+        "HUN",
+        "JPN",
+        "KAZ",
+        "LBN",
+        "MYS",
+        "MUS",
+        "MEX",
+        "NLD",
+        "NZL",
+        "NGA",
+        "NOR",
+        "PER",
+        "PHL",
+        "POL",
+        "QAT",
+        "RUS",
+        "SAU",
+        "ESP",
+        "CHE",
+        "THA",
+        "TUN",
+        "UKR",
+        "ARE",
+        "USA"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "shortcut": "ESM",
+	"lang":{
+        "cz":{
+            "name": "Evropský mechanismus stability",
+            "residence": "Lucemburk",
+            "authorityName": "Správní rada (Management board)",
+            "numberOfMembers": "19",
+            "year": "2012",
+            "description": [
+                "TBS"
+            ]
+        },
+        "en":{
+            "name": "European Stability Mechanism",
+            "residence": "Luxembourg",
+            "authorityName": "Management board",
+            "numberOfMembers": "19",
+            "year": "2012",
+            "description": [
+                "TBS"
+            ]
+        }
+    },
+    "rotation": [80, 52],
+    "members": [
+        "AUT", 
+    	"BEL", 
+    	"CYP", 
+    	"EST", 
+    	"FIN", 
+    	"FRA", 
+    	"DEU", 
+    	"GRC", 
+    	"IRL", 
+    	"ITA", 
+    	"LVA", 
+    	"LTU", 
+    	"LUX", 
+    	"MLT", 
+    	"NLD", 
+    	"PRT", 
+    	"SVK", 
+    	"SVN", 
+    	"ESP"
+    ]
+}
+

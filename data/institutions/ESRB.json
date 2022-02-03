@@ -1,0 +1,61 @@
+{
+    "shortcut": "ESRB",
+    "lang":{
+        "cz":{
+            "name": "Evropská rada pro systémová rizika",
+            "residence": "Frankfurt nad Mohanem",
+            "authorityName": "N/A",
+            "numberOfMembers": "30",
+            "numberOfMembersDetail": "27 hlasujících členů z EU a 3 nehlasující členové z EFTA - Island, Lichtenštejnsko, Norsko, 6 evropských institucí (hlasující i nehlasující členové)",
+            "year": "2011",
+            "description": [
+                "TBS"
+            ]
+        },
+        "en":{
+            "name": "European Systemic Risk Board",
+            "residence": "TBS",
+            "authorityName": "N/A",
+            "numberOfMembers": "30",
+            "numberOfMembersDetail": "27 hlasujících členů z EU a 3 nehlasující členové z EFTA - Island, Lichtenštejnsko, Norsko, 6 evropských institucí (hlasující i nehlasující členové)",
+            "year": "2011",
+            "description": [
+                "TBS"
+            ]
+        }
+    },
+    "rotation": [80, 52],
+    "members": [
+        "AUT", 
+        "BEL", 
+        "BGR", 
+        "HRV", 
+        "CYP", 
+        "CZE", 
+        "DNK", 
+        "EST", 
+        "FIN", 
+        "FRA", 
+        "DEU", 
+        "GRC", 
+        "HUN", 
+        "ISL", 
+        "IRL", 
+        "ITA", 
+        "LVA", 
+        "LIE", 
+        "LTU", 
+        "LUX", 
+        "MLT", 
+        "NLD", 
+        "NOR", 
+        "POL", 
+        "PRT", 
+        "ROU", 
+        "SVK", 
+        "SVN", 
+        "ESP", 
+        "SWE"
+    ]
+}
+

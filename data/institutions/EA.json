@@ -1,0 +1,47 @@
+{
+    "shortcut": "EA",
+    "lang":{
+        "cz":{
+            "name": "Eurozóna",
+            "residence": "Frankfurt nad Mohanem (SRN)",
+            "authorityName": "ECB",
+            "numberOfMembers": "19",
+            "year": "1999",
+            "description": [
+                "TBS"
+            ]
+        },
+        "en":{
+            "name": "Eurozone",
+            "residence": "TBS",
+            "authorityName": "ECB",
+            "numberOfMembers": "19",
+            "year": "1999",
+            "description": [
+                "TBS"
+            ]
+        }
+    },
+    "rotation":[80, 48],
+    "members": [
+        "AUT", 
+        "BEL", 
+        "CYP", 
+        "EST", 
+        "FIN", 
+        "FRA", 
+        "DEU", 
+        "GRC", 
+        "IRL", 
+        "ITA", 
+        "LVA", 
+        "LTU", 
+        "LUX", 
+        "MLT", 
+        "NLD", 
+        "PRT", 
+        "SVK", 
+        "SVN", 
+        "ESP"
+    ]
+}

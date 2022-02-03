@@ -1,0 +1,55 @@
+{
+    "shortcut": "EU",
+    "lang":{
+        "cz":{
+            "name": "Evropská unie",
+            "residence": "Brusel, Štrasburk, Lucemburk",
+            "authorityName": "N/A",
+            "numberOfMembers": "27",
+            "year": "1993",
+            "description": [
+                "TBS"
+            ]
+        },
+        "en":{
+            "name": "European Union",
+            "residence": "Brusel, Strasbourg, Luxembourg",
+            "authorityName": "N/A",
+            "numberOfMembers": "27",
+            "year": "1993",
+            "description": [
+                "TBS"
+            ]
+        }
+    },
+    "rotation": [80, 52],
+    "members": [
+        "AUT",
+        "BEL",
+        "BGR",
+        "HRV",
+        "CYP",
+        "CZE",
+        "DNK",
+        "EST",
+        "FIN",
+        "FRA",
+        "DEU",
+        "GRC",
+        "HUN",
+        "IRL",
+        "ITA",
+        "LVA",
+        "LTU",
+        "LUX",
+        "MLT",
+        "NLD",
+        "POL",
+        "PRT",
+        "ROU",
+        "SVK",
+        "SVN",
+        "ESP",
+        "SWE"
+    ]
+}

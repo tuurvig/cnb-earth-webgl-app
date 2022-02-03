@@ -1,0 +1,57 @@
+{
+    "shortcut": "BSCEE",
+    "lang":{
+        "cz":{
+            "name": "Skupina bankovních dohledů ze zemí střední a východní Evropy",
+            "residence": "Varšava (Polsko)",
+            "residenceDetail": "sídlo sekretariátu",
+            "authorityName": "Konference členů",
+            "numberOfMembers": "",
+            "numberOfMembersDetail": "26 zástupců dohledových institucí z 25 zemí",
+            "year": "1991",
+            "description": [
+                "Hlavní náplní činnosti je spolupráce v oblasti bankovního dohledu. ČNB je zakládajícím členem skupiny – skupina vznikla v roce 1991. Mezi aktivity instituce patří podpora výzkumu, školení a vzdělávacích programů a celkově všech aktivit vztahujících se k činnosti členů skupiny, podněcování a podporování úzké spolupráce a komunikace mezi bankovními dohledy zemí střední a východní Evropy, napomáhání bankovním dohledům zemí střední a východní Evropy k lepšímu zabezpečování jejich funkcí, působení v roli fóra nejvyšší úrovně pro technickou diskusi, pořádání konferencí, zajišťování výměny zkušeností týkajících se technik bankovního dohledu, informací a know-how, napomáhání při integraci do evropského systému bankovních dohledů a zastupování ve vztahu k Basilejskému výboru pro bankovní dohled (BCBS)."
+            ]
+        },
+        "en":{
+            "name": "Group of banking supervisors from central and eastern Europe",
+            "residence": "TBS",
+            "residenceDetail": "sídlo sekretariátu",
+            "authorityName": "TBS",
+            "numberOfMembers": "TBS",
+            "numberOfMembersDetail": "TBS",
+            "year": "1991",
+            "description": [
+                "TBS"
+            ]
+        }
+    },
+    "rotation":[55, 55],
+    "members": [
+        "ALB", 
+        "ARM", 
+        "AUT", 
+        "BLR", 
+        "BIH",
+        "BGR", 
+        "HRV", 
+        "CZE", 
+        "EST", 
+        "GEO", 
+        "HUN", 
+        "KAZ", 
+        "LVA", 
+        "LTU", 
+        "MDA", 
+        "MNE", 
+        "MKD", 
+        "POL", 
+        "ROU", 
+        "RUS", 
+        "SRB", 
+        "SVK", 
+        "SVN", 
+        "TUR",
+        "UKR"
+    ]
+}

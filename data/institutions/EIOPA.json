@@ -1,0 +1,60 @@
+{
+    "shortcut": "EIOPA",
+    "lang":{
+        "cz":{
+            "name": "Evropský orgán pro pojišťovnictví a zaměstnanecké penzijní pojištění",
+            "residence": "Frankfurt nad Mohanem",
+            "authorityName": "N/A",
+            "numberOfMembers": "30",
+            "numberOfMembersDetail": "27 hlasujících členů z EU a 3 nehlasující členové z EFTA",
+            "year": "2011",
+            "description": [
+                "EIOPA má zejména přispívat k vytváření společných standardů a postupů v oblasti regulace a dohledu v oblasti činností pojišťoven, zajišťoven, finančních konglomerátů, institucí zaměstnaneckého penzijního pojištění a zprostředkovatelů pojištění, a to vydáváním stanovisek pro orgány EU, vypracováváním obecných pokynů a doporučení a dále návrhů regulatorních a prováděcích technických standardů a doporučení pro Evropskou komisi k budoucím opatřením, přispívat k jednotnému uplatňování právně závazných opatření EU, podporovat společnou kulturu dohledu, zabraňovat regulatorní arbitráži, zprostředkovávat řešení sporů mezi národními orgány dohledu, zajišťovat jednotné fungování kolegií orgánů dohledu a přijímat opatření v mimořádných situacích, provádět srovnávací hodnocení činností národních orgánů dohledu, sledovat a posuzovat vývoj trhu a hodnotit rizika v okruhu své působnosti, provádět ekonomickou analýzu trhů, přispívat k jednotnému a soudržnému fungování kolegií orgánů dohledu, ke sledování, posuzování a měření systémového rizika, k vypracování a koordinaci ozdravných plánů a plánů řešení úpadků, k zajišťování vysoké úrovně ochrany pojistníků a oprávněných osob v celé EU."
+            ]
+        },
+        "en":{
+            "name": "European Insurance and Occupational Pensions Authority",
+            "residence": "Frankfurt nad Mohanem",
+            "authorityName": "N/A",
+            "numberOfMembers": "30",
+            "numberOfMembersDetail": "TBS",
+            "year": "2011",
+            "description": [
+                "TBS"
+            ]
+        }
+    },
+    "rotation": [80, 52],
+    "members": [
+        "AUT",
+        "BEL",
+        "BGR",
+        "HRV",
+        "CYP",
+        "CZE",
+        "DNK",
+        "EST",
+        "FIN",
+        "FRA",
+        "DEU",
+        "GRC",
+        "HUN",
+        "IRL",
+        "ITA",
+        "LVA",
+        "LTU",
+        "LUX",
+        "MLT",
+        "NLD",
+        "POL",
+        "PRT",
+        "ROU",
+        "SVK",
+        "SVN",
+        "ESP",
+        "SWE",
+        "ISL",
+        "LIE",
+        "NOR"
+    ]
+}

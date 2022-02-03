@@ -1,0 +1,58 @@
+{
+    "shortcut": "ESMA",
+    "lang":{
+        "cz":{
+            "name": "Evropský orgán pro cenné papíry a trhy",
+            "residence": "Paříž",
+            "authorityName": "N/A",
+            "numberOfMembers": "27",
+            "year": "2011",
+            "description": [
+                "Cílem ESMA je zlepšovat ochranu investorů a přispívat ke stabilitě a řádnému fungování finančních trhů. ESMA (i) přispívá k vytváření standardů a postupů v oblasti regulace a dohledu nad finančním trhem se zaměřením na emitenty finančních nástrojů, investory a zprostředkovatele, zejména vypracováním technických standardů, pokynů a doporučení, (ii) přispívá k jednotnému uplatňování právně závazných opatření EU, (iii) provádí srovnávací hodnocení supervizních postupů národních orgánů dohledu, (iv) hodnotí vývoj finančních trhů, (v) zlepšuje ochranu investorů zejména vzhledem k rizikům při přeshraničním poskytování investičních služeb, (vi) přispívá k jednotnému fungování kolegií orgánů dohledu, posuzování systémového rizika, vývoji a koordinaci ozdravných plánů a postupů řešení úpadků, (vii) přispívá k přípravě strategie EU v oblasti finančních dat. ESMA vykonává přímý dohled nad ratingovými agenturami, registry obchodních údajů, registry sekuritizací, ústředními protistranami ze třetích zemí. Pravomoci ESMA zahrnují uznávání centrálních depozitářů ze třetích zemí."
+            ]
+        },
+        "en":{
+            "name": "European Securities and Markets Authority",
+            "residence": "Paris",
+            "authorityName": "N/A",
+            "numberOfMembers": "27",
+            "year": "2011",
+            "description": [
+                "TBS"
+            ]
+        }
+    },
+    "rotation": [80, 52],
+    "members": [
+        "AUT",
+        "BEL",
+        "BGR",
+        "HRV",
+        "CYP",
+        "CZE",
+        "DNK",
+        "EST",
+        "FIN",
+        "FRA",
+        "DEU",
+        "GRC",
+        "HUN",
+        "IRL",
+        "ITA",
+        "LVA",
+        "LTU",
+        "LUX",
+        "MLT",
+        "NLD",
+        "POL",
+        "PRT",
+        "ROU",
+        "SVK",
+        "SVN",
+        "ESP",
+        "SWE",
+        "ISL",
+        "LIE",
+        "NOR"
+    ]
+}
