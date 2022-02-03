@@ -1,0 +1,6 @@
+Pro spuštění je třeba spustit chrome bez web security, kvůli CORS.
+
+Win + R
+chrome.exe --disable-web-security --user-data-dir=C:/chromeTemp
+
+Přetáhnout index.html do nově otevřeného okna chromu.
