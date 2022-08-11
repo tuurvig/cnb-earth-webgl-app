@@ -1,0 +1,11 @@
+1. generátor spojuje všechny jsony ve složce app/data/institutions podle app/data/group_config.json
+
+2. pokud daná instituce nemá texturu, tak ji vytvoří. Pokud existuje, tak generátor pokračuje a stejně zahrne instituci ve výsledném jsonu.
+
+2*. Přegenerovat texturu znamená vymazat původní ve složce img/groups/ a spustit skript znova.
+
+3. výsledný json je vytvořen do složky Contents
+
+4. Aby se jakákoliv změna v jsonech jednotlivých institucí promítla v aplikaci, je nutné spustit generátor!
+
+*generátor má relativně nastavené cesty, musí zůstat ve složce html.
