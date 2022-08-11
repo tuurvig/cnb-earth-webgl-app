@@ -1,0 +1,36 @@
+{
+    "shortcut": "CRA",
+    "lang":{
+        "cz":{
+            "name": "BRICS Contingent Reserve Arrangement",
+            "residence": "Šanghaj (Čína)",
+            "residenceDetail": "sídlo BRICS",
+            "authorityName": "Governing Council",
+            "numberOfMembers": "5",
+            "year": "2014",
+            "description": [
+                "Kontingentní rezervní uspořádaní zemí BRICS (BRICS Contingent Reserve Arrangement, CRA) je regionální finanční uspořádání založené v roce 2014, jehož členy jsou Brazílie, Čína, Jihoafrická republika, Indie a Rusko. Centrálním orgánem je rada guvernérů. Členské země se zavázaly vzájemně se podpořit poskytnutím měnových swapů v případě aktuálních či potenciálních krátkodobých potíží v oblasti platební bilance. CRA disponuje kapitálem ve výši 100 mld. USD, z čehož největší část (41 %) tvoří podíl Číny. Maximální přístup jednotlivých členů ke zdrojům se odvíjí od jejich podílů na celkovém kapitálu CRA. Pokud by přístup země měl přesáhnout 30 % stanoveného maximálního přístupu, musí současně čerpat finanční pomoc MMF."
+            ]
+        },
+        "en":{
+            "name": "BRICS Contingent Reserve Arrangement",
+            "residence": "Shanghai (China)",
+            "residenceDetail": "BRICS headquarters",
+            "authorityName": "Governing Council",
+            "numberOfMembers": "5",
+            "year": "2014",
+            "description": [
+                "The BRICS Contingent Reserve Arrangement (CRA) is a regional financial arrangement established in 2014, whose members are Brazil, Russia, India, China and South Africa. The central body is the Board of Governors. CRA members have committed to mutually supporting each other by providing currency swaps in the event of current or potential short-term balance of payments difficulties. The CRA has USD 100 billion in capital, with China accounting for the largest share (41%). The maximum access of the individual members to funding depends on their shares in the total capital of the CRA. If a country’s access were to exceed 30% of its maximum access, it must draw financial assistance from the IMF at the same time."
+            ]
+        }
+    },
+    "rotation":[-2, 45],
+    "members": [
+        "BRA", 
+		"CHN", 
+		"IND", 
+		"RUS", 
+		"ZAF"
+    ]
+}
+

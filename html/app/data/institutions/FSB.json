@@ -1,0 +1,62 @@
+{
+    "shortcut": "FSB",
+    "lang":{
+        "cz":{
+            "name": "Rada pro finanční stabilitu",
+            "residence": "Basilej (Švýcarsko)",
+            "authorityName": "Plenární zasedání členů",
+            "authorityNameDetail": "volený předseda a místopředseda z řad členů",
+            "numberOfMembers": "25",
+            "numberOfMembersDetail": "59 zástupců institucí z 25 zemí",
+            "year": "2009",
+            "description": [
+                "Vznik a fungování FSB jsou úzce spjaty se skupinou zemí G7 a G20. Přímý předchůdce FSB – Financial Stability Forum (FSF) – byl založen skupinou zemí G7 z iniciativy německé Bundesbanky v roce 1999. Cílem této nové struktury bylo rozšířit spolupráci mezi zeměmi G7 a mezinárodními tělesy na podporu finanční stability mezinárodního finančního systému. První jednání se uskutečnilo v dubnu 1999 ve Washingtonu.",
+                "Cílem FSB je koordinace národních a mezinárodních orgánů a institucí na podporu rozvoje a implementace regulatorních, dohledových a dalších politik v oblasti finančního sektoru. Ve spolupráci s dalšími mezinárodními institucemi hodnotí zranitelnosti pro finanční systém v zájmu celosvětové finanční stability.",
+                "FSB má sekretariát při BIS v Basileji a je oficiální právní entitou založenou dle švýcarského práva. Spoléhá se jak na vlastní kapacity a struktury, tak na struktury BIS.",
+                "Nejvyšším představitelem FSB je jeho předseda (funkce je vykonávána souběžně s další funkcí) a generální sekretář (jde o plný pracovní úvazek). Nejvyšším orgánem FSB je plenární zasedání, které je jejím rozhodovacím orgánem. "
+            ]
+        },
+        "en":{
+            "name": "Financial Stability Board",
+            "residence": "Basel (Switzerland)",
+            "authorityName": "Plenary meetings of members",
+            "authorityNameDetail": "Chair and Vice Chair elected from members",
+            "numberOfMembers": "25",
+            "numberOfMembersDetail": "59 representatives of institutions from 25 countries",
+            "year": "2009",
+            "description": [
+                "The establishment and operation of the FSB are closely linked to the G7 and G20. The FSB’s direct predecessor – the Financial Stability Forum (FSF) – was established in 1999 by the G7 at the initiative of the Deutsche Bundesbank. The new structure aimed to broaden the cooperation between G7 countries and international bodies to promote the financial stability of the international financial system. The FSF was first convened in April 1999 in Washington.",
+                "The FSB’s goal is to coordinate national and international bodies and institutions in order to support the development and implementation of regulatory, supervisory and other policies in the financial sector area. In the interest of global financial stability, it cooperates with other institutions to assess vulnerabilities in the financial system.",
+                "The FSB has its Secretariat at the BIS in Basel and is an official legal entity established under Swiss law. It relies on own capacities and structures as well as BIS structures.",
+                "The highest FSB representatives are the Chair (a post held simultaneously with another post) and the Secretary General (a full-time post). The sole decision-making body of the FSB is the Plenary."
+            ]
+        }
+    },
+    "rotation": [82, 48],
+    "members": [
+        "ARG",
+        "AUS",
+        "BRA",
+        "CHL",
+        "FRA",
+        "HKG",
+        "IND",
+        "IDN",
+        "ITA",
+        "JPN",
+        "ZAF",
+        "CAN",
+        "KOR",
+        "MEX",
+        "NLD",
+        "DEU",
+        "RUS",
+        "SAU",
+        "SGP",
+        "USA",
+        "ESP",
+        "CHE",
+        "TUR",
+        "GBR"
+    ]
+}

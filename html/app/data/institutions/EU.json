@@ -1,0 +1,62 @@
+{
+    "shortcut": "EU",
+    "lang":{
+        "cz":{
+            "name": "Evropská unie",
+            "residence": "Brusel, Štrasburk, Lucemburk",
+            "residenceDetail": "Belgie, Francie, Lucembursko",
+            "authorityName": "",
+            "numberOfMembers": "27",
+            "year": "1993",
+            "description": [
+                "EU je hospodářské a politické společenství sdružující 27 evropských zemí. EU se od původního společenství uhlí a oceli a Evropského hospodářského společenství postupně vyvinula směrem k politické a hospodářské unii a vytvořila též měnovou unii – tzv. eurozónu. Tu tvoří 19 členských států EU, které zavedly společnou měnu euro.",
+                "EU je postavena na základních hodnotách, k nimž se členské státy přihlásily a které jsou nedílnou součástí evropského způsobu života. Jsou jimi zejména lidská důstojnost, svoboda, demokracie, rovnost, právní stát a dodržování lidských práv. Tyto hodnoty reflektuje při plnění svých hlavních cílů, mezi něž patří např. prosazování míru a blahobytu občanů, zajišťování svobody, bezpečnosti a spravedlnosti, boj proti diskriminaci, podpora výzkumu a vývoje, respektování kulturního bohatství a jazykové rozmanitosti členských států nebo vytvoření hospodářské a měnové unie, jejíž měnou je euro.",
+                "Jedním z hlavních přínosů EU je vytvoření vnitřního trhu a zajištění volného pohybu osob, zboží, služeb a kapitálu. Občané EU tak mohou žít, pracovat nebo studovat v té členské zemi EU, kterou si vyberou. Stejně tak je díky volnému pohybu snazší nákup zboží nebo poskytování např. finančních služeb z ostatních členských států."
+            ]
+        },
+        "en":{
+            "name": "European Union",
+            "residence": "Brussels, Strasbourg, Luxembourg",
+            "residenceDetail": "Belgium, France, Luxembourg",
+            "authorityName": "",
+            "numberOfMembers": "27",
+            "year": "1993",
+            "description": [
+                "The EU is an economic and political community of 27 European countries. It started out as the European Coal and Steel Community, was then transformed into the European Economic Community and gradually evolved into a political and economic union. It has also created a monetary union – the euro area – comprising 19 Member States which have adopted the single currency, the euro.",
+                "The EU is built on the fundamental values to which the Member States have subscribed and which are an integral part of the European way of life: in particular human dignity, freedom, democracy, equality, the rule of law and human rights. The EU reflects these values in pursuing its main objectives. These include promoting peace and the wellbeing of its citizens, freedom, security and justice, combating discrimination, promoting research and development, respecting the rich cultural and linguistic diversity of its Member States and establishing an economic and monetary union whose currency is the euro.",
+                "One of the main benefits of the EU is the creation of the internal market and ensuring the free movement of people, goods, services and capital.  This allows EU citizens to live, work or study in the EU Member State of their choice. Similarly, free movement makes it easier to buy goods or provide, for example, financial services from other Member States."
+            ]
+        }
+    },
+    "rotation": [80, 52],
+    "members": [
+        "AUT",
+        "BEL",
+        "BGR",
+        "HRV",
+        "CYP",
+        "CZE",
+        "DNK",
+        "EST",
+        "FIN",
+        "FRA",
+        "DEU",
+        "GRC",
+        "HUN",
+        "IRL",
+        "ITA",
+        "LVA",
+        "LTU",
+        "LUX",
+        "MLT",
+        "NLD",
+        "POL",
+        "PRT",
+        "ROU",
+        "SVK",
+        "SVN",
+        "ESP",
+        "SWE"
+    ]
+}
+

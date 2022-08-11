@@ -1,0 +1,78 @@
+{
+    "shortcut": "OECD",
+    "lang":{
+        "cz":{
+            "name": "Organizace pro ekonomickou spolupráci a rozvoj",
+            "residence": "Paříž (Francie)",
+            "authorityName": "Rada OECD",
+            "authorityNameDetail": "složená z velvyslanců",
+            "numberOfMembers": "38",
+            "year": "1961",
+            "description": [
+                "Rada pro finanční stabilitu (Financial Stability Board, FSB) byla založena v roce 2009. Organizace sdružuje 24 členských zemí a 13 institucionálních členů (MMF, Skupinu Světové banky, BIS, OECD, BCBS a další). Jejím hlavním úkolem je podpora mezinárodní finanční stability prostřednictvím koordinace národních orgánů a mezinárodních institucí při výkonu jejich činnosti. Vznik a fungování FSB jsou úzce spjaty se skupinami zemí G7 a G20. Přímý předchůdce FSB, totiž Fórum pro finanční stabilitu (Financial Stability Forum, FSF), bylo založeno z iniciativy německé Bundesbanky v roce 1999 skupinou zemí G7. Cílem této nové struktury bylo rozšířit spolupráci mezi zeměmi G7 a mezinárodními institucemi na podporu finanční stability mezinárodního finančního systému. První jednání se uskutečnilo v dubnu 1999 ve Washingtonu, D. C.",
+                "Cílem FSB je koordinace národních a mezinárodních orgánů a institucí za účelem podpory rozvoje a implementace regulatorních, dohledových a dalších politik v oblasti finančního sektoru. Ve spolupráci s dalšími mezinárodními institucemi hodnotí zranitelnosti pro finanční systém v zájmu celosvětové finanční stability.",
+                "FSB má sekretariát při BIS v Basileji a je oficiální právní entitou založenou dle švýcarského práva. Spoléhá se jak na vlastní kapacity a struktury, tak i na aparát BIS. Nejvyšším představitelem FSB je jeho předseda (funkce je vykonávána souběžně s další funkcí) a generální sekretář (jde o plný pracovní úvazek). Nejvyšším orgánem je plénum FSB (tzv. FSB Plenary), které je rozhodovacím orgánem FSB.",
+                "V rámci FSB existuje celkem 6 regionálních konzultačních skupin (Regional Consultative Group, RCG) pro jednotlivé oblasti – Ameriku, Asii, Společenství nezávislých států, Evropu, Blízký Východ a severní Afriku a Subsaharskou Afriku. Nejpočetnější z nich RCG pro Evropu s 24 členy.",
+                "Česká národní banka je zastoupena v RCG pro Evropu od počátku jejího fungování v roce 2011. V letech 2017 – 2019 této skupině spolupředsedal viceguvernér ČNB společně se svým italským kolegou. Skupina sestává z 24 členských zemí (z toho 7 členů FSB) a zástupce skupiny dohledů z tzv. finančních center. V rámci skupiny jsou diskutována jak témata s přímou návazností na finanční stabilitu a práci FSB, tak témata s relevancí pro region Evropy."
+            ]
+        },
+        "en":{
+            "name": "Organization for Economic Co-Operation and Development",
+            "residence": "Paris (France)",
+            "authorityName": "OECD Council",
+            "authorityNameDetail": "composed of ambassadors",
+            "numberOfMembers": "38",
+            "year": "1961",
+            "description": [
+                "The Organisation for Economic Co-operation and Development (OECD) was founded in 1961. It has 38 members and is based in Paris, France. Its main aims are",
+                "(i) to achieve the maximum sustainable growth and employment and a rising standard of living in member countries, while maintaining financial stability, and thus to contribute to the development of the world economy,",
+                "(ii) to contribute to stable economic growth in its member and non-member countries, and",
+                "(iii) to contribute to the expansion of world trade on a multilateral, non-discriminatory basis in accordance with international goals.",
+                "The OECD enables the governments of advanced democracies to study and formulate the best policies to achieve their goals by conducting expert analyses, country comparisons and identifying cases of best practice.",
+                "The OECD Council is the organisation’s decision-making body in which each member country has a representative. Chaired by the Secretary-General, the Council meets at least once a month at the level of the permanent representatives of the OECD member countries. A meeting of the Council at ministerial level (the Ministerial Council Meeting), presided over by one of the member countries, is usually held once a year.",
+                "The CNB is involved in the activities of a number of OECD committees and working groups, whose agenda is related to its area of competence. These include, for example, the Economic Policy Committee, the Committee on Financial Markets, the Working Group on Short-Term Economic Prospects and various working groups on statistics. The CNB also contributes to the work of the Economic and Development Review Committee."
+            ]
+        }
+    },
+    "rotation": [120, 50],
+    "members": [
+        "BEL", 
+        "DNK", 
+        "FRA", 
+        "IRL", 
+        "ISL", 
+        "ITA", 
+        "CAN", 
+        "LUX", 
+        "NLD", 
+        "NOR", 
+        "PRT", 
+        "AUT", 
+        "GRC", 
+        "ESP", 
+        "USA", 
+        "GBR", 
+        "DEU", 
+        "SWE", 
+        "CHE", 
+        "TUR", 
+        "JPN", 
+        "FIN", 
+        "AUS", 
+        "NZL", 
+        "MEX", 
+        "CZE", 
+        "HUN", 
+        "POL", 
+        "KOR", 
+        "SVK", 
+        "CHL", 
+        "EST", 
+        "ISR", 
+        "SVN", 
+        "LVA", 
+        "LTU", 
+        "COL", 
+        "CRI"
+    ]
+}

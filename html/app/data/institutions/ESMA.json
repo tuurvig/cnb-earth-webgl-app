@@ -1,0 +1,71 @@
+{
+    "shortcut": "ESMA",
+    "lang":{
+        "cz":{
+            "name": "Evropský orgán pro cenné papíry a trhy",
+            "residence": "Paříž (Francie)",
+            "authorityName": "",
+            "numberOfMembers": "27",
+            "year": "2011",
+            "description": [
+                "Cílem ESMA je zlepšovat ochranu investorů a přispívat ke stabilitě a řádnému fungování finančních trhů.",
+                "ESMA (i) přispívá k vytváření standardů a postupů v oblasti regulace a dohledu nad finančním trhem se zaměřením na emitenty finančních nástrojů, investory a zprostředkovatele, zejména vypracováním technických standardů, pokynů a doporučení,",
+                "(ii) přispívá k jednotnému uplatňování právně závazných opatření EU,",
+                "(iii) provádí srovnávací hodnocení supervizních postupů národních orgánů dohledu,",
+                "(iv) hodnotí vývoj finančních trhů, (v) zlepšuje ochranu investorů zejména vzhledem k rizikům při přeshraničním poskytování investičních služeb,",
+                "(vi) přispívá k jednotnému fungování kolegií orgánů dohledu, posuzování systémového rizika, vývoji a koordinaci ozdravných plánů a postupů řešení úpadků,",
+                "(vii) přispívá k přípravě strategie EU v oblasti finančních dat. ESMA vykonává přímý dohled nad ratingovými agenturami, registry obchodních údajů, registry sekuritizací, ústředními protistranami ze třetích zemí. Pravomoci ESMA zahrnují uznávání centrálních depozitářů ze třetích zemí."
+            ]
+        },
+        "en":{
+            "name": "European Securities and Markets Authority",
+            "residence": "Paris (France)",
+            "authorityName": "",
+            "numberOfMembers": "27",
+            "year": "2011",
+            "description": [
+                "ESMA aims to improve investor protection and contribute to the stability and orderly functioning of financial markets.",
+                "ESMA (i) contributes to the development of standards and practices in the area of financial market regulation and supervision for issuers of financial instruments, investors and intermediaries by preparing technical standards, guidelines and recommendations,",
+                "(ii) contributes to the single application of EU legally binding measures,",
+                "(iii) conducts peer reviews of the supervisory practices of national supervisory authorities,",
+                "(iv) assesses financial market developments,",
+                "(v) improves investor protection, in particular with regard to the risks in the cross-border provision of investment services,",
+                "(vi) contributes to the consistent functioning of supervisory colleges, the assessment of systemic risk and the development and coordination of recovery plans and resolution procedures,",
+                "(vii) contributes to the preparation of an EU financial data strategy. ESMA directly supervises credit rating agencies, trade repositories, securitisation repositories and third-country central counterparties. ESMA’s powers include the recognition of central securities depositories from third countries."
+            ]
+        }
+    },
+    "rotation": [80, 52],
+    "members": [
+        "AUT",
+        "BEL",
+        "BGR",
+        "HRV",
+        "CYP",
+        "CZE",
+        "DNK",
+        "EST",
+        "FIN",
+        "FRA",
+        "DEU",
+        "GRC",
+        "HUN",
+        "IRL",
+        "ITA",
+        "LVA",
+        "LTU",
+        "LUX",
+        "MLT",
+        "NLD",
+        "POL",
+        "PRT",
+        "ROU",
+        "SVK",
+        "SVN",
+        "ESP",
+        "SWE",
+        "ISL",
+        "LIE",
+        "NOR"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "shortcut": "EHP",
+    "lang":{
+        "cz":{
+            "name": "Evropský hospodářský prostor",
+            "residence": "",
+            "authorityName": "",
+            "numberOfMembers": "30",
+            "numberOfMembersDetail": "27 členů EU a Island, Lichtenštejnsko a Norsko",
+            "year": "1994",
+            "description": [
+                "Evropský hospodářský prostor (EHP) byl vytvořen v roce 1994 s cílem rozšířit ustanovení EU o vnitřním trhu, který zahrnuje volný pohyb osob, zboží a kapitálu, na členy Evropského sdružení volného obchodu (ESVO). Smluvními stranami EHP jsou členské státy ESVO Norsko, Island a Lichtenštejnsko. Švýcarsko je sice členem ESVO, ale nikoliv přímo EHP a jeho hospodářské a obchodní vztahy s EU jsou ošetřeny dvoustrannými smlouvami. Partnery v EU a EHP, resp. ESVO (konkrétně Norsko a Island) spojují také různé oblasti „severní politiky“ a fóra, která se zaměřují na rychle se rozvíjející severní části Evropy a celou arktickou oblast.",
+                "Smluvní strany EHP z řad členských států ESVO s členskými státy EU nesdílí společnou celní unii (tj. neuplatňují společné celní tarify vůči zbytku světa) a nepodílí se na společné obchodní, zemědělské, rybářské nebo zahraniční a bezpečnostní politice. Nemají účast ani na politikách v oblasti spravedlnosti a vnitřních věcí. Všechny státy ESVO jsou však členy schengenského prostoru (absence pasových kontrol s členskými státy EU, jež jsou členy schengenského prostoru, společná vízová politika). Vrcholným orgánem EHP je Rada EHP, která se schází alespoň dvakrát ročně na úrovni ministrů zahraničí, resp. ministrů pro evropské záležitosti členských států."
+            ]
+        },
+        "en":{
+            "shortcut": "EEA",
+            "name": "European Economic Area",
+            "residence": "",
+            "authorityName": "",
+            "numberOfMembers": "30",
+            "numberOfMembersDetail": "27 EU members and Iceland, Liechtenstein and Norway",
+            "year": "1994",
+            "description": [
+                "The European Economic Area (EEA) was set up in 1994 to extend the EU’s provisions on its internal market, which guarantees the free movement of people, goods and capital, to the European Free Trade Area (EFTA) countries. EFTA member states Norway, Iceland and Liechtenstein are parties to the EEA. Switzerland is a member of the EFTA but does not take part in the EEA. Its economic and trade relations with the EU are governed by bilateral agreements. The EU and EEA or EFTA partners (specifically Norway and Iceland) are also linked by various “northern policies” and forums which focus on the rapidly evolving northern reaches of Europe and the Arctic region as a whole.",
+                "The EEA EFTA countries do not share a customs union with the EU Member States (i.e. do not apply common customs tariffs to the rest of the world), nor do they participate in a common trade, agricultural, fisheries or foreign and security policy.  They are not involved in justice and home affairs policies either. However, all EFTA countries are members of the Schengen area (no passport controls between EU Member States which are members of the Schengen area, common visa policy). The supreme body of the EEA is the EEA Council, which meets at least twice a year at ministerial level (foreign ministers or ministers for European Affairs of its member states)."
+            ]
+        }
+    },
+    "rotation": [80, 52],
+    "members": [
+        "AUT",
+        "BEL",
+        "BGR",
+        "HRV",
+        "CYP",
+        "CZE",
+        "DNK",
+        "EST",
+        "FIN",
+        "FRA",
+        "DEU",
+        "GRC",
+        "HUN",
+        "IRL",
+        "ITA",
+        "LVA",
+        "LTU",
+        "LUX",
+        "MLT",
+        "NLD",
+        "POL",
+        "PRT",
+        "ROU",
+        "SVK",
+        "SVN",
+        "ESP",
+        "SWE",
+        "ISL",
+        "LIE",
+        "NOR"
+    ]
+}

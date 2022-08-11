@@ -1,0 +1,41 @@
+{
+    "shortcut": "ECCU",
+    "lang":{
+        "cz":{
+            "name": "Východokaribská měnová unie",
+            "residence": "Basseterre (Svatý Kryštof)",
+            "authorityName": "ECCB",
+            "authorityNameDetail": "Eastern Caribbean Central Bank",
+            "numberOfMembers": "8",
+            "year": "1983",
+            "yearDetail": "založení ECCB",
+            "description": [
+                "Cílem ECCU je provozovat měnovou politiku a společnou měnu, jíž je východokaribský dolar. Ten je od r. 1976 navázaný na americký dolar (dříve od r. 1965 na GBP), a to při kurzu 1 USD = 2,70 EC$. ECCU je součástí širší Hospodářské unie Organizace východokaribských států, jejímž cílem je prohlubovat ekonomickou integraci svých členů."
+            ]
+        },
+        "en":{
+            "name": "Eastern Caribbean Currency Union",
+            "residence": "Basseterre (Saint Christopher Island)",
+            "authorityName": "ECCB",
+            "authorityNameDetail": "Eastern Caribbean Central Bank",
+            "numberOfMembers": "8",
+            "year": "1983",
+            "yearDetail": "establishment of the ECCB",
+            "description": [
+                "The ECCU’s objective is to conduct monetary policy and operate a single currency, which is the Eastern Caribbean dollar. The currency has been pegged to the US dollar since 1976 (previously from 1965 to sterling) at an exchange rate of EC$ 2.70 = USD 1. The ECCU is part of the broader Economic Union of the Organisation of Eastern Caribbean States (OECS) which aims to deepen the economic integration of its members."
+            ]
+        }
+    },
+    "rotation": [135, 15],
+    "members": [
+        "AIA",
+        "ATG",
+        "DMA", 
+        "GRD",
+        "MSR",
+        "LCA",
+        "KNA",
+        "VCT"
+    ]
+}
+

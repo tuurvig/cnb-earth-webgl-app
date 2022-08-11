@@ -1,0 +1,67 @@
+{
+    "shortcut": "ESRB",
+    "lang":{
+        "cz":{
+            "name": "Evropská rada pro systémová rizika",
+            "residence": "Frankfurt nad Mohanem (Německo)",
+            "authorityName": "",
+            "numberOfMembers": "30",
+            "numberOfMembersDetail": "27 hlasujících členů z EU a 3 nehlasující členové z EFTA - Island, Lichtenštejnsko, Norsko, 6 evropských institucí (hlasující i nehlasující členové)",
+            "year": "2011",
+            "description": [
+                "Evropská rada pro systémová rizika (European Systemic Risk Board, ESRB) je zřízena nařízením Evropského parlamentu a Rady (EU) č. 1092/2010 ze dne 24. listopadu 2010 o makroobezřetnostním dohledu nad finančním systémem na úrovni Evropské unie a o zřízení Evropské rady pro systémová rizika.",
+                "ESRB je odpovědná za makroobezřetnostní dohled nad finančním systémem v rámci EU a má napomoci předcházet systémovým rizikům pro finanční stabilitu v EU, resp. tato rizika zmírňovat. ESRB dále přispívá k řádnému fungování vnitřního trhu a podporuje trvalý příspěvek finančního odvětví k hospodářskému růstu.",
+                "ESRB má rozpoznávat rizika systémového charakteru a vydávat varování před těmito riziky a doporučení s cílem předejít krizovým situacím.",
+                "ČNB je v ESRB zastoupena v Generální radě (na úrovni guvernéra a viceguvernéra) a jejím poradním technickém výboru."
+            ]
+        },
+        "en":{
+            "name": "European Systemic Risk Board",
+            "residence": "Frankfurt am Main (Germany)",
+            "authorityName": "",
+            "numberOfMembers": "30",
+            "numberOfMembersDetail": "27 voting members from the EU and three non-voting members from the EFTA ‒ Iceland, Lichtenstein and Norway, six European institutions (voting and non-voting members)",
+            "year": "2011",
+            "description": [
+                "The European Systemic Risk Board (ESRB) was established by Regulation (EU) No 1092/2010 of 24 November 2010 of the European Parliament and of the Council on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board.",
+                "The ESRB is responsible for macro-prudential oversight of the financial system within the EU. Its job is to help prevent or mitigate systemic risks to financial stability in the EU. The ESRB also contributes to the proper functioning of the internal market and supports a lasting contribution of the financial sector to economic growth.",
+                "The ESRB identifies risks of a systemic nature and issues risk warnings and recommendations to prevent crises.",
+                "The CNB is represented on its General Board (at the level of Governor and Deputy Governor) and on its Advisory Technical Committee."
+            ]
+        }
+    },
+    "rotation": [80, 52],
+    "members": [
+        "AUT", 
+        "BEL", 
+        "BGR", 
+        "HRV", 
+        "CYP", 
+        "CZE", 
+        "DNK", 
+        "EST", 
+        "FIN", 
+        "FRA", 
+        "DEU", 
+        "GRC", 
+        "HUN", 
+        "ISL", 
+        "IRL", 
+        "ITA", 
+        "LVA", 
+        "LIE", 
+        "LTU", 
+        "LUX", 
+        "MLT", 
+        "NLD", 
+        "NOR", 
+        "POL", 
+        "PRT", 
+        "ROU", 
+        "SVK", 
+        "SVN", 
+        "ESP", 
+        "SWE"
+    ]
+}
+

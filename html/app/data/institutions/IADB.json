@@ -1,0 +1,76 @@
+{
+    "shortcut": "IADB",
+    "lang":{
+        "cz":{
+            "name": "Interamerická rozvojová banka",
+            "residence": "Washington (USA)",
+            "authorityName": "Rada guvernérů",
+            "numberOfMembers": "48",
+            "year": "1959",
+            "description": [
+                "Interamerická rozvojová banka je největším zdrojem rozvojového financování v Latinské Americe a Karibiku. Od roku 1959 zde podporuje hospodářský a sociální rozvoj a regionální integraci prostřednictvím půjček vládám a vládním agenturám, včetně státních korporací, s primárním cílem snižování chudoby a podpory udržitelného a trvalého růstu. Banka vznikla na základě iniciativy brazilského prezidenta s českými kořeny Juscelina Kubitsheka. Aktuálně se zaměřuje na tři hlavní problémy: sociální vyloučení a nerovnost, nízkou produktivitu a inovace a nedostatečnou ekonomickou integraci."
+            ]
+        },
+        "en":{
+            "name": "Inter-American Development Bank",
+            "residence": "Washington, D.C. (USA)",
+            "authorityName": "Board of Governors",
+            "numberOfMembers": "48",
+            "year": "1959",
+            "description": [
+                "The Inter-American Development Bank is the leading source of development finance for Latin America and the Caribbean. Since 1959, it has been supporting economic and social development as well as regional integration in Latin America and the Caribbean through lending to governments and government agencies, including state-owned corporations, with the primary aim of reducing poverty and supporting sustainable and long-term growth. The bank was created at the initiative of Brazilian President Juscelino Kubitschek, who was of Czech ancestry. It currently focuses on three main issues: social exclusion and inequality, low productivity, and innovation and insufficient economic integration."
+            ]
+        }
+    },
+    "rotation": [165, 30],
+    "members": [
+        "ARG", 
+        "BHS", 
+        "BRB", 
+        "BLZ", 
+        "BOL", 
+        "BRA", 
+        "CHL", 
+        "COL", 
+        "CRI", 
+        "DOM", 
+        "ECU", 
+        "SLV", 
+        "GTM", 
+        "GUY", 
+        "HTI", 
+        "HND", 
+        "JAM", 
+        "MEX", 
+        "NIC", 
+        "PAN", 
+        "PRY", 
+        "PER", 
+        "SUR", 
+        "TTO", 
+        "URY", 
+        "VEN", 
+        "AUT", 
+        "BEL", 
+        "CAN", 
+        "CHN", 
+        "HRV", 
+        "DNK", 
+        "FIN", 
+        "FRA", 
+        "DEU", 
+        "ISR", 
+        "ITA", 
+        "JPN", 
+        "KOR", 
+        "NLD", 
+        "NOR", 
+        "PRT", 
+        "SVN", 
+        "ESP", 
+        "SWE", 
+        "CHE", 
+        "GBR", 
+        "USA"
+    ]
+}

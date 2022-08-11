@@ -1,0 +1,60 @@
+{
+    "shortcut": "FSB RCGE",
+    "lang":{
+        "cz":{
+            "name": "FSB Regional Consultative Group for Europe",
+            "residence": "Basilej (Švýcarsko)",
+            "residenceDetail": "sídlo sekretariátu",
+            "authorityName": "Spolupředsedové",
+            "authorityNameDetail": "volení z řad členských zemí FSB a nečlenských zemí FSB",
+            "numberOfMembers": "24",
+            "numberOfMembersDetail": "62 zástupců institucí z 24 zemí",
+            "year": "2011",
+            "description": [
+                "V rámci FSB existuje celkem šest regionálních skupin pro jednotlivé regiony – Amerika, Asie, Společenství nezávislých států, Evropa, Blízký Východ a severní Afrika, sub-saharská Afrika. Nejpočetnější z těchto skupin je RCG pro Evropu s 24 členy.",
+                "Česká národní banka je zastoupena v RCG pro Evropu od počátku jejího fungování v roce 2011. V letech 2017–2019 této skupině spolupředsedal viceguvernér ČNB společně se svým italským kolegou."
+            ]
+        },
+        "en":{
+            "name": "FSB Regional Consultative Group for Europe",
+            "residence": "Basel (Switzerland)",
+            "residenceDetail": "secretariat",
+            "authorityName": "Co-Chairs",
+            "authorityNameDetail": "elected from the representatives of FSB member and non-member countries",
+            "numberOfMembers": "24",
+            "numberOfMembersDetail": "62 representatives of institutions from 24 countries",
+            "year": "2011",
+            "description": [
+                "The FSB has six regional groups, one each for the Americas, Asia, the Commonwealth of Independent States, Europe, the Middle East and North Africa, and the Sub-Saharan Africa region. The largest of these groups is the RCG for Europe with 24 members.",
+                "The Czech National Bank has been represented in the RCG for Europe since the group was established in 2011. In 2017–2019, this group was co-chaired by CNB Deputy Governor and his Italian counterpart."
+            ]
+        }
+    },
+    "rotation":[82, 48],
+    "members": [
+        "AUS",
+        "BEL",
+        "CZE",
+        "DNK",
+        "FIN",
+        "FRA",
+        "DEU",
+        "GRC",
+        "HUN",
+        "ISL",
+        "IRL",
+        "ISR",
+        "ITA",
+        "LUX",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "ESP",
+        "SWE",
+        "CHE",
+        "UKR",
+        "GBR"
+    ]
+}

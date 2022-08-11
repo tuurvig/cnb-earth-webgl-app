@@ -1,0 +1,86 @@
+{
+    "shortcut": "IsDB",
+    "lang":{
+        "cz":{
+            "name": "Islámská rozvojová banka",
+            "residence": "Jeddah (Saudská Arábie)",
+            "authorityName": "Rada guvernérů",
+            "numberOfMembers": "57",
+            "year": "1975",
+            "description": [
+                "IsDB je rozvojová finanční instituce zaměřená na islámské bankovnictví (tj. finančnictví, které je v souladu s islámským právem šaría a charakteristické mj. zákazem půjčování na úrok; tento finanční systém je založen na principu obchodování, tedy upřednostňuje obchod před půjčováním peněz). Podmínkou pro členství je příslušnost dané země k Organizaci islámské spolupráce. Největším podílníkem banky s cca 25 % akcií je Saúdská Arábie."
+            ]
+        },
+        "en":{
+            "name": "Islamic Development Bank",
+            "residence": "Jeddah (Saudi Arabia)",
+            "authorityName": "Board of Governors",
+            "numberOfMembers": "57",
+            "year": "1975",
+            "description": [
+                "The IsDB is a development finance institution which focuses on Islamic banking – i.e. finance compatible with Sharia (Islamic law) and characterised, among other things, by a ban on lending at interest. This financial system is based on the principle of trading, i.e. favours trading to lending money. The condition for membership is being a member of the Organisation of Islamic Cooperation. Saudi Arabia is the bank’s largest shareholder, with around 25% of shares."
+            ]
+        }
+    },
+    "rotation": [60, 30],
+    "members": [
+        "AFG",
+        "ALB", 
+        "DZA", 
+        "AZE", 
+        "BHR", 
+        "BGD", 
+        "BEN", 
+        "BRN", 
+        "BFA", 
+        "CMR", 
+        "TCD", 
+        "COM", 
+        "CIV", 
+        "DJI", 
+        "EGY", 
+        "GAB", 
+        "GMB", 
+        "GIN", 
+        "GNB", 
+        "GUY", 
+        "IDN", 
+        "IRN", 
+        "IRQ", 
+        "JOR", 
+        "KAZ", 
+        "KWT", 
+        "KGZ", 
+        "LBN", 
+        "LBY", 
+        "MYS", 
+        "MDV", 
+        "MLI", 
+        "MRT", 
+        "MAR", 
+        "MOZ", 
+        "NER", 
+        "NGA", 
+        "OMN", 
+        "PAK", 
+        "PSE", 
+        "QAT", 
+        "SAU", 
+        "SEN", 
+        "SLE", 
+        "SOM", 
+        "SDN", 
+        "SUR", 
+        "SYR", 
+        "TJK", 
+        "TGO", 
+        "TUN", 
+        "TUR", 
+        "TKM", 
+        "UGA", 
+        "ARE", 
+        "UZB", 
+        "YEM"
+    ]
+}
+

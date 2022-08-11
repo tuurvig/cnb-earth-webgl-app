@@ -1,0 +1,46 @@
+{
+    "shortcut": "UEMOA",
+    "lang":{
+        "cz":{
+            "name": "Západoafrická hospodářská a měnová unie",
+            "residence": "Dakar (Senegal)",
+            "authorityName": "BCEAO",
+            "authorityNameDetail": "Banque Centrale des Etats de l’Afrique de l’Ouest",
+            "numberOfMembers": "8",
+            "year": "1973",
+            "yearDetail": "smlouva o založení Západoafrické měnové unie",
+            "description": [
+                "Západoafrické měnová unie (L’Union Monétaire Ouest Africaine, UMOA) vznikla v r. 1973. Založením Západoafrické hospodářské a měnové unie (UEMOA) v r. 1994 byla původní měnová unie rozšířena na unii hospodářskou s cílem posílit hospodářskou spolupráci a konvergenci, harmonizovat legislativu a regulaci a zajistit pohyb zboží a osob mezi svými členy.",
+                "Členové UEMOA spolu s členy Hospodářského a měnového společenství střední Afriky (CEMAC) a Francií tvoří tzv. zónu franku CFA. Každá z těchto dvou unií disponuje vlastní samostatnou měnou (západoafrický frank CFA, resp. středoafrický frank CFA), avšak obě měny jsou od r. 1999 navázány na euro (dříve od r. 1945 na francouzský frank), a to při kurzu 1 EUR = 656 CFAF.  Navázání franku CFA na euro je podpořeno smlouvou o měnové spolupráci s Francií, která garantuje neomezenou směnitelnost franku CFA."
+            ]
+        },
+        "en":{
+            "name": "West African Economic and Monetary Union",
+            "residence": "Dakar (Senegal)",
+            "authorityName": "BCEAO",
+            "authorityNameDetail": "Banque Centrale des Etats de l’Afrique de l’Ouest",
+            "numberOfMembers": "8",
+            "year": "1973",
+            "yearDetail": "Treaty Establishing the West African Economic and Monetary Union",
+            "description": [
+                "The West African Economic and Monetary Union (L’Union Monétaire Ouest Africaine, UMOA) was established in 1973. With the establishment of the West African Economic and Monetary Union (UEMOA) in 1994, the original monetary union transformed into an economic union to strengthen economic cooperation and convergence, harmonise legislation and regulation and ensure the movement of goods and people among its members.",
+                "UEMOA members, together with members of the Central African Economic and Monetary Community (CEMAC) and France, form the CFA franc zone. Each of these unions has its own independent currency (the West African CFA franc and the Central African CFA franc). However, both currencies have been pegged to the euro since 1999 (previously from 1945 to the French franc) at an exchange rate of CFAF 656 = EUR 1.  The CFA franc is pegged to the euro by a monetary cooperation agreement with France guaranteeing its unlimited convertibility."
+            ]
+        },
+        "fr":{
+            "name": "L’Union Monétaire Ouest Africaine"
+        }
+    },
+    "rotation": [85, 20],
+    "members": [
+        "BEN",
+        "BFA",
+        "GNB",
+        "MLI",
+        "NER",
+        "CIV",
+        "SEN",
+        "TGO"
+    ]
+}
+

@@ -1,0 +1,51 @@
+{
+    "shortcut": "ESM",
+	"lang":{
+        "cz":{
+            "name": "Evropský mechanismus stability",
+            "residence": "Lucemburk (Lucembursko)",
+            "authorityName": "Správní rada",
+            "authorityNameDetail": "Management board",
+            "numberOfMembers": "19",
+            "year": "2012",
+            "description": [
+                "Evropský stabilizační mechanismus (European Stability Mechanism, ESM) poskytuje finanční asistenci pro státy eurozóny čelící závažným finančním problémům, pakliže je ohrožena finanční stabilita měnové unie. ESM vznikl v roce 2012 v reakci na tehdejší dluhovou krizi některých států eurozóny jako mezinárodní organizace, jejímiž členy jsou všechny země eurozóny. Kapitálová vybavenost ESM činí téměř 705 miliard EUR (z čehož 80 mld. EUR tvoří splacený kapitál členských zemí a zbytek závazky), což mu umožňuje poskytovat finanční pomoc ve výši až 500 mld. EUR (tzv. zápůjční kapacita). Na zmírnění potíží členských států má ESM k dispozici řadu nástrojů od přímých půjček a úvěrových linek po nákup dluhopisů členských států a rekapitalizačních programů pro krizí zasažený bankovní sektor. Dosud ESM nebo jeho předchůdce Evropský nástroj pro finanční stabilitu (European Financial Stability Facility, EFSF) aktivoval programy půjček podmíněné implementací strukturálních reforem, jejichž adresáty byly Irsko, Kypr, Portugalsko a Řecko. V případě Španělska ESM aktivoval nástroj pro nepřímou rekapitalizaci tamního bankovního sektoru. Během koronavirové krize v roce 2020 pak ESM zřídil zvláštní úvěrovou linku pro členské státy eurozóny.",
+                "Vrcholným orgánem ESM je Rada guvernérů, v níž zasedají zpravidla ministři financí členských států. Běžnou agendu obstarává správní rada (Management Board) v čele s výkonným ředitelem."
+            ]
+        },
+        "en":{
+            "name": "European Stability Mechanism",
+            "residence": "Luxembourg (Luxembourg)",
+            "authorityName": "Management board",
+            "numberOfMembers": "19",
+            "year": "2012",
+            "description": [
+                "The European Stability Mechanism (ESM) provides financial assistance to euro area countries experiencing serious financial problems when the financial stability of the monetary union is in jeopardy. The ESM was established in 2012 in response to the then debt crisis of some euro area countries as an international organisation of which all euro area countries are members. The ESM has capitalisation of almost EUR 705 billion (of which over EUR 80 billion is members’ paid-in capital and the rest liabilities). This allows for financial assistance of up to EUR 500 billion (the ESM’s lending capacity). The ESM has several instruments at its disposal to alleviate the problems of its members, ranging from direct loans and credit lines to the purchase of members’ bonds and recapitalisation programmes for the crisis-stricken banking sector. The ESM or its predecessor, the European Financial Stability Facility (EFSF), has so far activated lending programmes conditional on implementing structural reforms for Ireland, Cyprus, Portugal and Greece. In the case of Spain, it activated an indirect recapitalisation instrument for its banking sector. During the coronavirus crisis in 2020, the ESM provided a special credit line for euro area members.",
+                "The Board of Governors is the highest decision-making body of the ESM. It mostly comprises the ministers of finance of ESM members. The Board of Directors, chaired by the Managing Director, is responsible for conducting the ESM’s current business."
+            ]
+        }
+    },
+    "rotation": [80, 52],
+    "members": [
+        "AUT", 
+    	"BEL", 
+    	"CYP", 
+    	"EST", 
+    	"FIN", 
+    	"FRA", 
+    	"DEU", 
+    	"GRC", 
+    	"IRL", 
+    	"ITA", 
+    	"LVA", 
+    	"LTU", 
+    	"LUX", 
+    	"MLT", 
+    	"NLD", 
+    	"PRT", 
+    	"SVK", 
+    	"SVN", 
+    	"ESP"
+    ]
+}
+

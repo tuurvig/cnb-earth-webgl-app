@@ -1,0 +1,46 @@
+{
+    "shortcut": "CMIM",
+    "lang":{
+        "cz":{
+            "name": "Chiang Mai Initiative Multilateralization",
+            "residence": "Jakarta (Indonésie)",
+            "residenceDetail": "sídlo ASEAN, na který je navázána",
+            "authorityName": "Ministerial Level Decision Making Body",
+            "authorityNameDetail": "orgán složený z ministrů financí a guvernérů centrálních bank",
+            "numberOfMembers": "13",
+            "year": "2000 (2010)",
+            "description": [
+                "Chiang Mai Initiative Multilateralization (CMIM) je multilaterálním uspořádáním měnových swapů, které tvoří země Sdružení národů jihovýchodní Asie (Association of South East Asian Nations, ASEAN), tj. Brunej Darussalam, Kambodža, Indonésie, Laos, Malajsie, Myanmar, Filipíny, Singapur, Thajsko a Vietnam a dále Čína, Japonsko a Jižní Korea. Původní Chiang Mai iniciativa založená v roce 2000 sestávala z řady bilaterálních swapových dohod. V roce 2010 vstoupila v platnost dohoda o multilateralizaci této iniciativy (CMIM). Hlavní rozhodovací pravomocí v CMIM disponuje orgán složený z ministrů financí a guvernérů centrálních bank členských zemí. Cílem CMIM, která disponuje devizovými rezervami v souhrnné výši 240 mld. USD, je řešení potíží s platební bilancí a krátkodobých problémů s likviditou a doplnění existujících mezinárodních finančních uspořádání. Maximální přístup jednotlivých členů ke zdrojům CMIM se odvíjí od výše jejich příspěvků do CMIM. Pokud by přístup země měl přesáhnout 40 % stanoveného maximálního přístupu, musí současně čerpat finanční pomoc MMF."
+            ]
+        },
+        "en":{
+            "name": "Chiang Mai Initiative Multilateralization",
+            "residence": "Jakarta (Indonesia)",
+            "residenceDetail": "the ASEAN headquarters to which it is linked",
+            "authorityName": "Ministerial Level Decision Making Body",
+            "authorityNameDetail": "a body consisting of finance ministers and central bank governors",
+            "numberOfMembers": "13",
+            "year": "2000 (2010)",
+            "description": [
+                "Chiang Mai Initiative Multilateralization (CMIM) is a multilateral currency swap arrangement among the countries of the Association of South East Asian Nations (ASEAN), i.e. Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore, Thailand and Vietnam, as well as China, Japan and South Korea. The original Chiang Mai Initiative was launched in 2000 and consisted of a series of bilateral swap agreements. The Chiang Mai Initiative Multilateralization (CMIM) Agreement came into effect in 2010. The main decision-making powers in the CMIM are held by a body consisting of finance ministers and central bank governors of the member countries. The aim of the CMIM, which has international reserves totalling USD 240 billion, is to address balance of payment and short-term liquidity difficulties and supplement the existing international financial arrangements. The maximum access of the individual members to CMIM funding depends on the level of their contribution to CMIM. If a country’s access were to exceed 40 % of its maximum access, it must draw financial assistance from the IMF at the same time."
+            ]
+        }
+    },
+    "rotation":[-25, 22],
+    "members": [
+        "BRN", 
+        "KHM", 
+        "CHN", 
+        "HKG", 
+        "IDN", 
+        "JPN", 
+        "LAO", 
+        "MYS", 
+        "MMR", 
+        "PHL", 
+        "SGP", 
+        "KOR", 
+        "THA", 
+        "VNM"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "shortcut": "EBA",
+    "lang":{
+        "cz":{
+            "name": "Evropský orgán pro bankovnictví",
+            "residence": "Paříž (Francie)",
+            "residenceDetail": "do r. 2019 Londýn (Velká Británie)",
+            "authorityName": "",
+            "numberOfMembers": "30",
+            "numberOfMembersDetail": "27 hlasujících členů z EU a 3 nehlasující členové z EFTA",
+            "year": "2011",
+            "description": [
+                "Mezi hlavní cíle EBA patří udržování finanční stability v EU a zajišťování integrity, účinnosti a řádného fungování finančního trhu prostřednictvím zajištění odpovídajícího, účinného a harmonizovaného evropského dohledu a regulace. Hlavním úkolem EBA je přispívat prostřednictvím přijímání závazných technických norem a obecných pokynů k vytvoření jednotného evropského souboru pravidel v odvětví bankovnictví. Cílem jednotného souboru pravidel je poskytnout jedinou sadu harmonizovaných obezřetnostních pravidel pro finanční instituce v rámci celé EU, napomáhat vytváření rovných podmínek a poskytovat vysokou míru ochrany vkladatelů, investorů a spotřebitelů. EBA rovněž hraje významnou úlohu při podpoře sbližování postupů dohledu za účelem zajištění harmonizovaného uplatňování obezřetnostních pravidel. Posuzuje také rizika a slabá místa v bankovnictví EU, a to zejména prostřednictvím pravidelných zpráv o posouzení rizik a celoevropských zátěžových testů."
+            ]
+        },
+        "en":{
+            "name": "European Banking Authority",
+            "residence": "Paris (France)",
+            "residenceDetail": "London (United Kingdom) until 2019",
+            "authorityName": "",
+            "numberOfMembers": "30",
+            "numberOfMembersDetail": "27 voting members from the EU and three non-voting members from the EFTA",
+            "year": "2011",
+            "description": [
+                "The primary objectives of the EBA are to maintain financial stability in the EU and safeguard the integrity, efficiency and orderly functioning of the financial market through appropriate, efficient and harmonised European supervision and regulation. The main task of the EBA is to contribute – by adopting binding technical standards and guidelines – to the creation of the European Single Rulebook in the banking sector. The Single Rulebook aims at providing a single set of harmonised prudential rules for financial institutions throughout the EU, helping create a level playing field and providing high protection to depositors, investors and consumers. The EBA also plays an important role in promoting convergence of supervisory practices to ensure a harmonised application of prudential rules. It also assesses risks and vulnerabilities in the EU banking sector, in particular through regular risk assessment reports and pan-European stress tests."
+            ]
+        }
+    },
+    "rotation":[80, 52],
+    "members": [
+        "AUT",
+        "BEL",
+        "BGR",
+        "HRV",
+        "CYP",
+        "CZE",
+        "DNK",
+        "EST",
+        "FIN",
+        "FRA",
+        "DEU",
+        "GRC",
+        "HUN",
+        "IRL",
+        "ITA",
+        "LVA",
+        "LTU",
+        "LUX",
+        "MLT",
+        "NLD",
+        "POL",
+        "PRT",
+        "ROU",
+        "SVK",
+        "SVN",
+        "ESP",
+        "SWE",
+        "ISL",
+        "LIE",
+        "NOR"
+    ]
+}

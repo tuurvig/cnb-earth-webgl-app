@@ -1,0 +1,47 @@
+{
+    "shortcut": "CEMAC",
+    "lang":{
+        "cz":{
+            "name": "Hospodářské a měnové společenství střední Afriky",
+            "residence": "Yaoundé (Kamerun)",
+            "authorityName": "BEAC",
+            "authorityNameDetail": "Banque des Etats de l’Afrique Centrale",
+            "numberOfMembers": "6",
+            "year": "1972",
+            "yearDetail": "založení BEAC",
+            "description": [
+                "Středoafrická měnová unie (L’Union Monétaire de l'Afrique Centrale, UMAC) vznikla v r. 1972.  Založením Hospodářského a měnového společenství střední Afriky (CEMAC) v r. 1994 byla původní měnová unie rozšířena na unii hospodářskou s cílem posílit hospodářskou spolupráci a konvergenci, harmonizovat legislativu a regulaci a zajistit pohyb zboží a osob mezi svými členy.",
+                "Členové CEMAC spolu s členy Západoafrické hospodářské a měnové unie (UEMOA) a Francií tvoří tzv. zónu franku CFA. Každá z těchto dvou unií disponuje vlastní samostatnou měnou (středoafrický frank CFA, resp. západoafrický frank CFA), avšak obě měny jsou od r. 1999 navázány na euro (dříve od r. 1945 na francouzský frank), a to při kurzu 1 EUR = 656 CFAF. Navázání franku CFA na euro je podloženo smlouvou o měnové spolupráci s Francií, která garantuje neomezenou směnitelnost franku CFA."
+            ]
+        },
+        "en":{
+            "name": "Central African Economic and Monetary Community",
+            "residence": "Yaoundé (Cameroon)",
+            "authorityName": "BEAC",
+            "authorityNameDetail": "Banque des Etats de l’Afrique Centrale",
+            "numberOfMembers": "6",
+            "year": "1972",
+            "yearDetail": "establishment of the BEAC",
+            "description": [
+                "The Central African Monetary Union (L’Union Monétaire de l'Afrique Centrale, UMAC) was established in 1972. With the establishment of the Central African Economic and Monetary Community (CEMAC) in 1994, the original monetary union transformed into an economic union to strengthen economic cooperation and convergence, harmonise legislation and regulation and ensure the movement of goods and people among its members.",
+                "CEMAC members, together with members of the West African Monetary and Economic Union (UEMOA) and France, form the CFA franc zone. Each of these unions has its own independent currency (the Central African CFA franc and the West African CFA franc). However, both currencies have been pegged to the euro since 1999 (previously from 1945 to the French franc) at an exchange rate of CFAF 656 = EUR 1. The CFA franc is pegged to the euro by a monetary cooperation agreement with France guaranteeing its unlimited convertibility."
+            ]
+        },
+        "fr":{
+            "name": "Communauté Economique et Monétaire de l’Afrique Centrale"
+        }
+    },
+    "rotation":[72, 10],
+    "members": [
+        "TCD",
+        "GAB",
+        "CMR",
+        "COG",
+        "GNQ",
+        "CAF"
+    ]
+}
+
+
+
+

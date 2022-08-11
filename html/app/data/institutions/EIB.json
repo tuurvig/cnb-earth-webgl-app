@@ -1,0 +1,58 @@
+{
+    "shortcut": "EIB",
+    "lang":{
+        "cz":{
+            "name": "Evropská investiční banka",
+            "residence": "Lucemburk (Lucembursko)",
+            "authorityName": "Rada guvernérů",
+            "numberOfMembers": "27",
+            "year": "1958",
+            "description": [
+                "EIB je autonomním orgánem v rámci struktury Evropské unie, vytvořeným k financování kapitálových investičních projektů, které naplňují cíle jednotlivých politik EU. Byla zřízena Římskou smlouvou v roce 1958 v rámci rozhodnutí o založení Evropských společenství. Těžiště jejích aktivit  je v členských státech EU, angažuje se ale i mimo území EU, kde se podílí na uskutečňování politik EU pro rozvoj a spolupráci. Poskytuje úvěry zhruba 150 zemím včetně kandidátských zemí, balkánských zemí, zemí v oblasti Středomoří, v Asii a Latinské Americe, států africké, karibské a tichomořské oblasti (země ACP) a zámořských zemí a území Jihoafrické republiky. K plnění svých úkolů získává EIB na mezinárodních finančních trzích prostředky, které jsou pak za co nejvýhodnějších podmínek směřovány k financování jednotlivých projektů v souladu s cíli EU. Mimo EU užívá EIB nástroje dohod sjednávaných v rámci evropské rozvojové pomoci a politik spolupráce. V posledních letech se EIB zaměřuje také na poskytování technické pomoci.",
+                "EIB působí v ČR od roku 1992. ČR se stala jejím členem se vstupem do EU v roce 2004."
+            ]
+        },
+        "en":{
+            "name": "European Investment Bank",
+            "residence": "Luxembourg (Luxembourg)",
+            "authorityName": "Board of Governors",
+            "numberOfMembers": "27",
+            "year": "1958",
+            "description": [
+                "The EIB is an autonomous body within the framework of the European Union, established to finance capital investment projects which meet the objectives of EU policies. It was founded in 1958 by the Treaty of Rome establishing the European Economic Community. It operates mainly within the EU Member States but also outside the EU, where it helps to implement the EU’s development and cooperation policies. It provides loans to around 150 countries, including candidate countries, the Balkan countries, countries in the Mediterranean region, Asia and Latin America, the African, Caribbean and Pacific group of states (ACP), overseas territories and South Africa. To fulfil its tasks, the EIB raises funds on international financial markets. In line with EU objectives, these funds are channelled into the financing of individual projects under as favourable conditions as possible. Outside the EU, the EIB uses instruments available under agreements negotiated within European development assistance and cooperation policies. In recent years, the EIB has also focused on providing technical assistance.",
+                "The EIB has worked with the Czech Republic since 1992. The Czech Republic became an EIB member in 2004 with its accession to the EU."
+            ]
+        }
+    },
+    "rotation": [80, 52],
+    "members": [
+        "AUT", 
+        "BEL", 
+        "BGR", 
+        "HRV", 
+        "CYP", 
+        "CZE", 
+        "DNK", 
+        "EST", 
+        "FIN", 
+        "FRA", 
+        "DEU", 
+        "GRC", 
+        "HUN", 
+        "IRL", 
+        "ITA", 
+        "LVA", 
+        "LTU", 
+        "LUX", 
+        "MLT", 
+        "NLD", 
+        "POL", 
+        "PRT", 
+        "ROU", 
+        "SVK", 
+        "SVN", 
+        "ESP", 
+        "SWE"
+    ]
+}
+

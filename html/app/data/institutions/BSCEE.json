@@ -1,0 +1,56 @@
+{
+    "shortcut": "BSCEE",
+    "lang":{
+        "cz":{
+            "name": "Skupina bankovních dohledů ze zemí střední a východní Evropy",
+            "residence": "Varšava (Polsko)",
+            "residenceDetail": "sídlo sekretariátu",
+            "authorityName": "Konference členů",
+            "numberOfMembers": "",
+            "numberOfMembersDetail": "26 zástupců dohledových institucí z 25 zemí",
+            "year": "1991",
+            "description": [
+                "Hlavní náplní činnosti je spolupráce v oblasti bankovního dohledu. ČNB je zakládajícím členem skupiny – skupina vznikla v roce 1991. Mezi aktivity instituce patří podpora výzkumu, školení a vzdělávacích programů a celkově všech aktivit vztahujících se k činnosti členů skupiny, podněcování a podporování úzké spolupráce a komunikace mezi bankovními dohledy zemí střední a východní Evropy, napomáhání bankovním dohledům zemí střední a východní Evropy k lepšímu zabezpečování jejich funkcí, působení v roli fóra nejvyšší úrovně pro technickou diskusi, pořádání konferencí, zajišťování výměny zkušeností týkajících se technik bankovního dohledu, informací a know-how, napomáhání při integraci do evropského systému bankovních dohledů a zastupování ve vztahu k Basilejskému výboru pro bankovní dohled (BCBS)."
+            ]
+        },
+        "en":{
+            "name": "Group of Banking Supervisors from Central and Eastern Europe",
+            "residence": "Warsaw (Poland) ",
+            "residenceDetail": "Secretariat",
+            "authorityName": "Conference of members",
+            "numberOfMembers": "",
+            "numberOfMembersDetail": "26 representatives of supervisory institutions from 25 countries",
+            "year": "1991",
+            "description": [
+                "The main activity of the group is cooperation in the area of banking supervision. The CNB is a founding member of the group, established in 1991. As part of its activities, the institution supports research, training and education programmes and generally all activities related to the work of the group’s members, encourages and supports close cooperation and communication between bank supervisory authorities in Central and Eastern Europe and helps them better perform their functions. It acts as a top-level forum for technical discussion, organises conferences, ensures the exchange of experience related to banking supervision techniques, information and know-how, helps with integration into the European system of banking supervision and represents its members in relation to the Basel Committee on Banking Supervision (BCBS)."
+            ]
+        }
+    },
+    "rotation":[55, 55],
+    "members": [
+        "ALB", 
+        "ARM", 
+        "AUT", 
+        "BLR", 
+        "BIH",
+        "BGR", 
+        "HRV", 
+        "CZE", 
+        "EST", 
+        "GEO", 
+        "HUN", 
+        "KAZ", 
+        "LVA", 
+        "LTU", 
+        "MDA", 
+        "MNE", 
+        "MKD", 
+        "POL", 
+        "ROU", 
+        "SRB", 
+        "SVK", 
+        "SVN", 
+        "TUR",
+        "UKR"
+    ]
+}
